@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/moussa/study/c++/HelloWorld/.vscode/bin",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/hello.dir/main.o -c /home/moussa/study/c++/HelloWorld/src/main.cpp",
+  "file": "/home/moussa/study/c++/HelloWorld/src/main.cpp"
+}
+]

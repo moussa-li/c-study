@@ -1,0 +1,5 @@
+/home/moussa/study/c++/HelloWorld/.vscode/CMakeFiles/edit_cache.dir
+/home/moussa/study/c++/HelloWorld/.vscode/CMakeFiles/rebuild_cache.dir
+/home/moussa/study/c++/HelloWorld/.vscode/bin/CMakeFiles/hello.dir
+/home/moussa/study/c++/HelloWorld/.vscode/bin/CMakeFiles/edit_cache.dir
+/home/moussa/study/c++/HelloWorld/.vscode/bin/CMakeFiles/rebuild_cache.dir

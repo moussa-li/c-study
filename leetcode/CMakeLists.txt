@@ -1,0 +1,3 @@
+PROJECT(LeetCode)
+
+ADD_SUBDIRECTORY(src bin)
